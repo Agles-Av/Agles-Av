@@ -1,6 +1,6 @@
 # Agles Av
 
-Software develop like everyone else...
+Software developer like everyone else...
 
 ---
 
